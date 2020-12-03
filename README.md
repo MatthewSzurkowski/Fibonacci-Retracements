@@ -16,7 +16,7 @@ Easily upload CSV data downloaded from yahoo finance to graph Fibonacci retracem
 ---
 
 ## Setup :wrench:
-Pandas & matplotlib.pyplot must be installed to use this software
+Pandas and matplotlib.pyplot must be installed to use this software
 
 ---
 
